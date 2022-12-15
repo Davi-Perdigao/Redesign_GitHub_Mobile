@@ -2,11 +2,15 @@
 <h4 align="center">Protótipo de revisão no layout do GitHub Mobile, utilizando as técnicas compreendidas em sala de aula do curso de Ciências da Computação (6º Período), na disciplina de UX/UI Design.</h4>
 
 <i>Autores{<br/>
-                 *Davi Perdigão<br/>
-                 *Eric Castro<br/>
-                 *Edmilson Lino<br/>
+                 Davi Perdigão<br/>
+                 Eric Castro<br/>
+                 Edmilson Lino<br/>
                 }<br/>
 </i>
+
+<h3 align="center">
+  <a href="https://www.figma.com/file/mAc03vCwVNpdabp45R5Gc5/Redesign-GitHub-Mobile?node-id=0%3A1&t=g8UfhzRPfLVm5t4s-1" target="_blank">👨‍💻 Projeto Completo no Figma ❗</a>
+</h3>
 
 ## ❓ Por que repensar no design do GitHub Mobile?
 
